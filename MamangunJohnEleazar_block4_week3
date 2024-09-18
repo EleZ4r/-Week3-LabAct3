@@ -56,6 +56,7 @@ echo $car->describe() . "\n\n";
 
 echo $motorcycle->getDetails() . "\n";
 echo $motorcycle->describe() . "\n\n";
+
 echo $electricCar->getDetails() . "\n";
 echo $electricCar->describe() . "\n";
 echo $electricCar->chargeBattery() . "\n";
